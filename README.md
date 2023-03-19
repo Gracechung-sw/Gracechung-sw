@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Resume Notion Page Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Notion&link=https://hjchung.notion.site/Software-Engineer-d56aa5fb94a941cd8abb6d0bfe08db41)](https://hjchung.notion.site/Software-Engineer-d56aa5fb94a941cd8abb6d0bfe08db41)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=github&link=https://libertegrace.tistory.com/)](https://libertegrace.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-yellow?style=flat-square&logo=Tistory&link=https://libertegrace.tistory.com/)](https://libertegrace.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeonjeong-chung/)](https://www.linkedin.com/in/hyeonjeong-chung/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjngy0511@gmail.com)](mailto:hjngy0511@gmail.com)
 
